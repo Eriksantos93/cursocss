@@ -1,0 +1,25 @@
+* { margin:0;    padding:0;}
+    #Exemplo{ 
+        background-color: green; 
+        color: #fff;
+        width: 500px;
+        margin: 20px;
+        padding-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        padding-left: 5px;
+    }
+    #Exemplo2{ 
+        background-color: rgb(119, 255, 119); 
+        color: #f21111;
+        width: 500px;
+        margin: 20px;
+        padding: 20px 10px 15px 25px
+    }
+    #Exemplo3{ 
+        background-color: rgb(243, 96, 186); 
+        color: #5a0505;
+        width: 500px;
+        margin: 20px;
+        padding: 20px
+    }
